@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mona-Bhagat (
-- 👀 I’m interested in everything Data, AI, and Machine Learning (specifically NLP)
-- 🌱 I’m currently learning SQL, Power BI, Python
+- 👀 I’m interested in everything Data, Analysis and Engineering 
+- 🌱 I’m currently learning SQL, Power BI, Python (Pyspark)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
